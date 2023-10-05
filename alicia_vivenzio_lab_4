@@ -3,6 +3,7 @@
 <head>
     <title>>Alicia Vivenzio's Lab 3 Brain storm</title>
     <link rel="stylesheet" type="text/css" href="main_2.css"/>
+    </head>
     <body>
 <header>
 <h1>Brainstorm for final project! | Lab 4</h1>
@@ -15,6 +16,7 @@
         <li>Prevoius Experenince</li>
 
     </ul>
+</nav>
 <main id="main-content">
     <div class="even">
 <p>For my final I was thinking of doing something like a portfolio.</p>
